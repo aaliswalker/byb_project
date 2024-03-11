@@ -5,4 +5,4 @@ print("You entered:", user_input)
 print("Just adding some changes")
 print(":)")
 
-liters_milk = int(input("How many liters of milk did you drink today: "))
+milk_ml = int(input("How many mililiters of milk did you drink today: "))
